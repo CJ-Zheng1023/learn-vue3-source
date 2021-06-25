@@ -1,0 +1,21 @@
+{
+  "name": "learn-vue3-source",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server",
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@vue/reactivity": "^3.1.2"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^5.3.2",
+    "webpack": "^5.40.0",
+    "webpack-cli": "3",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
